@@ -1,0 +1,51 @@
+SDLC (Software Development Life Cycle):
+SDLC (Software Development Life Cycle) is a step-by-step process used to design, develop, test, and maintain software in a systematic way.  
+  
+SDLC Models:
+* Waterfall Model:
+  Linear and sequential
+  Each phase completes before next starts
+  Advantages: Simple and easy to understand , Good for small projects
+  Disadvantages: Not flexible , Changes are difficult
+  Use case: Small projects with clear requirements
+    
+* Agile Model: 
+  Work is divided into small cycles called sprints
+  Continuous feedback and improvement
+  Advantages: Flexible , Fast delivery , Customer involvement
+  Disadvantages: Requires experienced team , Less documentation
+  Use case: Dynamic projects, startups
+    
+* Spiral Model: 
+  Combination of Waterfall + Risk Analysis
+  Development happens in loops (spirals)
+  Advantages: Good risk management , Suitable for large projects
+  Disadvantages: Complex , Costly
+  Use case: Large and high-risk projects4️
+    
+* V-Model (Verification & Validation):
+  Each development phase has a corresponding testing phase
+  Advantages: Early testing , High quality
+  Disadvantages: Rigid , Not flexible
+  Use case: Safety-critical systems
+
+* Incremental Model:
+  Software is developed in small increments
+  Each increment adds features
+  Advantages: Early delivery , Easy testing
+  Disadvantages: Needs good planning
+  Use case: Modular system
+
+* Iterative Model:
+  Repeated development cycles
+  Improve software with each iteration
+  Advantages: Early working model , Flexible
+  Disadvantages: Needs strong design
+  Use case: Large applications
+
+* Prototype Model: 
+  Build a working prototype first
+  Customer feedback is taken
+  Advantages: Better understanding of requirements , Reduced risk
+  Disadvantages: Extra cost , Poor design risk
+  Use case: When requirements are unclear
